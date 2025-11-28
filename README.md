@@ -7,17 +7,18 @@ The **Stock Management System GUI** streamlines inventory processes for business
 It offers real-time stock tracking, advanced search and filtering, automated reporting, and data-driven analytics — all built using beginner-friendly Python functionalities with a clean architectural structure.
 
 ## 📁 Project Structure
-stock_management_system/
-├── data_operations.py       # Core data handling and CRUD operations
-├── inventory_manager.py     # Inventory logic, stock tracking, alerts
-├── search_filters.py        # Search, filtering, sorting tools
-├── data_persistence.py      # File I/O, saving, loading, backups
-├── calculations.py          # Analytics and financial calculations
-├── validation_utils.py      # Input validation and integrity checks
-├── main_integration.py      # GUI and full system integration
-├── requirements.txt         # Required libraries
-├── sample_data.txt          # Sample inventory dataset
-└── README.md                # Project documentation
+| File Name               | Description                                        |
+|-------------------------|----------------------------------------------------|
+| **data_operations.py**   | Core data handling and product CRUD operations     |
+| **inventory_manager.py** | Inventory logic, stock tracking, and alerts        |
+| **search_filters.py**    | Search, filtering, and sorting functionalities     |
+| **data_persistence.py**  | File I/O, saving/loading data, and backups         |
+| **calculations.py**      | Inventory analytics and financial calculations     |
+| **validation_utils.py**  | Input validation and data integrity checks         |
+| **main_integration.py**  | GUI implementation and full system integration     |
+| **requirements.txt**     | Required libraries and dependencies                |
+| **sample_data.txt**      | Sample inventory dataset                           |
+| **README.md**            | Project documentation                              |
 
 ## 🛠 Technology Stack
 - **Programming Language:** Python 3.8+
