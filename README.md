@@ -27,7 +27,6 @@ It offers real-time stock tracking, advanced search and filtering, automated rep
 - **Architecture:** Modular, scalable, and easy to maintain
 
 ## 👥 Team Structure & Responsibilities
-
 ### 🔹 Team Leader
 **Name:** **Ahmed Medhat**  
 **Module:** `main_integration.py`  
@@ -40,14 +39,15 @@ It offers real-time stock tracking, advanced search and filtering, automated rep
 - UX/UI optimization  
 
 ### 🔹 Team Members (Python Developers)
-| Member Name | Module | Focus Area | Key Tasks |
-|-------------|--------|------------|-----------|
-| **Youssef Ahmed** | `data_operations.py` | Data Structures | Product CRUD, list/dict operations |
-| **Mariam** | `inventory_manager.py` | Business Logic | Stock updates, low-stock alerts, valuation |
-| **Rana** | `search_filters.py` | Searching | Search, sorting, filtering |
-| **Lojain Mohammed** | `data_persistence.py` | Storage | File I/O, import/export, backups |
-| **Marwan** | `calculations.py` | Analytics | Pricing, profit, metric calculations |
-| **Abdelrahman** | `validation_utils.py` | Data Integrity | Input validation & error prevention |
+| Member Name        | Module               | Focus Area        | Key Tasks |
+|--------------------|----------------------|-------------------|-----------|
+| **Ahmed Medhat**   | `main_integration.py` | GUI & Integration | Full GUI, module linking, architecture |
+| **Youssef Ahmed**  | `data_operations.py`  | Data Structures   | Product CRUD, list/dict operations |
+| **Mariam**         | `inventory_manager.py`| Business Logic    | Stock updates, low-stock alerts, valuation |
+| **Rana**           | `search_filters.py`   | Searching         | Search, sorting, filtering |
+| **Lojain Mohammed**| `data_persistence.py` | Storage           | File I/O, import/export, backups |
+| **Marwan**         | `calculations.py`     | Analytics         | Pricing, profit, metric calculations |
+| **Abdelrahman**    | `validation_utils.py` | Data Integrity    | Input validation & error prevention |
 
 Each member focuses ONLY on their module using basic Python (loops, functions, if-conditions, lists, dicts).
 
