@@ -27,17 +27,6 @@ It offers real-time stock tracking, advanced search and filtering, automated rep
 - **Architecture:** Modular, scalable, and easy to maintain
 
 ## 👥 Team Structure & Responsibilities
-### 🔹 Team Leader
-**Name:** **Ahmed Medhat**  
-**Module:** `main_integration.py`  
-**Responsibilities:**
-- GUI design and implementation  
-- System integration across all modules  
-- Architecture planning  
-- Cross-module coordination and testing  
-- Advanced error handling  
-- UX/UI optimization  
-
 ### 🔹 Team Members (Python Developers)
 | Member Name        | Module               | Focus Area        | Key Tasks |
 |--------------------|----------------------|-------------------|-----------|
