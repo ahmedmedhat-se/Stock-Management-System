@@ -27,7 +27,9 @@ It offers real-time stock tracking, advanced search and filtering, automated rep
 - **Architecture:** Modular, scalable, and easy to maintain
 
 ## 👥 Team Structure & Responsibilities
-### 🔹 Team Leader (Advanced Developer)
+
+### 🔹 Team Leader
+**Name:** **Ahmed Medhat**  
 **Module:** `main_integration.py`  
 **Responsibilities:**
 - GUI design and implementation  
@@ -37,15 +39,15 @@ It offers real-time stock tracking, advanced search and filtering, automated rep
 - Advanced error handling  
 - UX/UI optimization  
 
-### 🔹 Team Members (Beginner Python Developers)
-| Member | Module | Focus Area | Key Tasks |
-|--------|--------|------------|-----------|
-| Member 1 | `data_operations.py` | Data Structures | Product CRUD, lists/dicts operations |
-| Member 2 | `inventory_manager.py` | Business Logic | Stock updates, low-stock alerts, valuation |
-| Member 3 | `search_filters.py` | Searching | Search, sorting, filtering |
-| Member 4 | `data_persistence.py` | Storage | File I/O, import/export, backups |
-| Member 5 | `calculations.py` | Analytics | Pricing, profit, metric calculations |
-| Member 6 | `validation_utils.py` | Data Integrity | Input validation & error prevention |
+### 🔹 Team Members (Python Developers)
+| Member Name | Module | Focus Area | Key Tasks |
+|-------------|--------|------------|-----------|
+| **Youssef Ahmed** | `data_operations.py` | Data Structures | Product CRUD, list/dict operations |
+| **Mariam** | `inventory_manager.py` | Business Logic | Stock updates, low-stock alerts, valuation |
+| **Rana** | `search_filters.py` | Searching | Search, sorting, filtering |
+| **Lojain Mohammed** | `data_persistence.py` | Storage | File I/O, import/export, backups |
+| **Marwan** | `calculations.py` | Analytics | Pricing, profit, metric calculations |
+| **Abdelrahman** | `validation_utils.py` | Data Integrity | Input validation & error prevention |
 
 Each member focuses ONLY on their module using basic Python (loops, functions, if-conditions, lists, dicts).
 
@@ -176,4 +178,11 @@ Each member focuses ONLY on their module using basic Python (loops, functions, i
 This project is developed for **educational and business purposes**.  
 All rights reserved by the development team.
 
-### **Development Team • Stock Management System GUI • Version 1.0**
+### **Development Team • Stock Management System GUI • Version 1.0**  
+- **Data Operations:** Youssef Ahmed  
+- **Inventory Management:** Mariam  
+- **Search Filters:** Rana  
+- **Data Persistence:** Lojain Mohammed  
+- **Calculations:** Marwan  
+- **Validation Utils:** Abdelrahman  
+- **Main Integration & GUI:** Ahmed Medhat
